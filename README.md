@@ -2,7 +2,7 @@
 
 # Chenxi Dong - Academic Portfolio
 
-Welcome to my academic portfolio. You will find detailed information about my academic background, research experience, projects, and publications here.
+Welcome to my academic portfolio. I've included detailed information about my academic background, research experience, projects, and publications.
 
 ## About Me
 
