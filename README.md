@@ -1,6 +1,4 @@
-<link rel="stylesheet" type="text/css" href="style.css">
-
-# Chenxi Dong - Academic Portfolio
+# Chenxi Dong - Personal Page
 
 Welcome to my academic portfolio. I've included detailed information about my academic background, research experience, projects, and publications.
 
