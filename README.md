@@ -12,7 +12,7 @@
    - **Institution**: City University of Hong Kong (2020-2021)
    - **GPA**: 3.4/4.0
 
-2. **Bachelor of Engineering (BE) in Engineering**
+2. **Bachelor of Engineering (BE) in Petroleum Engineering**
    - **Institution**: Heriot-Watt University (2016-2019)
    - **GPA**: 3.5/4.0
 
