@@ -82,7 +82,7 @@
 
 ## Certifications
 
-1. **IBM Machine Learning Professional Certificate**
+1. **[IBM Machine Learning Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/NSSZZVM8S4L9)**
    - **Issuer**: IBM
    - **Credential ID**: NSSZZVM8S4L9
    - **Issued**: Jul 2022
