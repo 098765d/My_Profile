@@ -1,6 +1,3 @@
-Welcome to my GitHub page! This page highlights my academic background, research experience, and projects.
-
-## About Me
 
 - **Name**: Chenxi Dong
 - **Current Position**: Research Assistant at The Education University of Hong Kong
@@ -19,12 +16,6 @@ Welcome to my GitHub page! This page highlights my academic background, research
   - GPA: 3.5/4.0
   - Awarded Deputy Principal's Award for academic excellence
 
-## Research Experience
-
-### The Education University of Hong Kong
-- **Research Assistant** (Oct 2021 - Present)
-  - Project: CRAC project 03ABL “Improving QA&E by Predicting Student Performance Using Data Analytics”
-  - Project: TDG Project: An Automated Platform for Early Identification of At-risk Students
 
 ## Projects
 
