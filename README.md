@@ -1,3 +1,9 @@
+<link rel="stylesheet" type="text/css" href="style.css">
+
+# Chenxi Dong - Academic Portfolio
+
+Welcome to my academic portfolio. You will find detailed information about my academic background, research experience, projects, and publications here.
+
 ## About Me
 
 - **Name**: Chenxi Dong
@@ -5,32 +11,34 @@
 - **Email**: [cdong@eduhk.hk](mailto:cdong@eduhk.hk)
 - **LinkedIn**: [Chenxi Dong](https://www.linkedin.com/in/chenxi-d-263324227/)
 
+---
+
 ## Academic Background
 
-- **Master of Science (MSc) in Data Science** 
-  - City University of Hong Kong, 2020-2021
-  - GPA: 3.4/4.0
-  - Focused on Machine Learning and Object-Oriented Programming (OOP)
+### Master of Science (MSc) in Data Science
+**City University of Hong Kong** (2020-2021)
+- GPA: 3.4/4.0
+- Focused on Machine Learning and Object-Oriented Programming (OOP)
 
-- **Bachelor of Engineering (BE) in Engineering**
-  - Heriot-Watt University, 2016-2019
-  - GPA: 3.5/4.0
-  - Awarded Deputy Principal's Award for academic excellence
+### Bachelor of Engineering (BE) in Engineering
+**Heriot-Watt University** (2016-2019)
+- GPA: 3.5/4.0
+- Awarded Deputy Principal's Award for academic excellence
 
+---
 
 ## Projects
 
 ### [CRAC Project - Improving QA&E by Predicting Student Performance Using Data Analytics](https://www.lttc.eduhk.hk/events/20240410_2/)
-- Description: Using data analytics methods to identify factors affecting student performance at graduation.
-- Technologies: Python, Machine Learning, Data Analytics
+- **Description**: Using data analytics methods to identify factors affecting student performance at graduation.
+- **Technologies**: Python, Machine Learning, Data Analytics
 
 ### [TDG Project - An Automated Platform for Early Identification of At-risk Students](https://app.lib.eduhk.hk/tl/node/407)
-- Description: Developing an automated platform to identify at-risk students early using predictive analytics.
-- Technologies: Python, Machine Learning
+- **Description**: Developing an automated platform to identify at-risk students early using predictive analytics.
+- **Technologies**: Python, Machine Learning, System Design, Web Application
+- **Links**: [GitHub Repository](https://github.com/098765d/dualPredictor), [PyPI](https://pypi.org/project/dualPredictor/)
 
-### [dualPredict (Python Package for TDG Project)](https://github.com/098765d/dualPredictor)
-- Description: A Python package developed for the TDG project to predict at-risk students.
-- Links: [GitHub Repository](https://github.com/098765d/dualPredictor), [PyPI](https://pypi.org/project/dualPredictor/)
+---
 
 ## Publications
 
@@ -58,17 +66,30 @@
   - IEEE BHI-BSN 2021 Poster Presentation
   - [Read more](https://docs.google.com/presentation/d/1Yv-vgErBwZpsDU6caslx5lfWU0TXFe8u/edit?usp=sharing&ouid=103405228218175523912&rtpof=true&sd=true)
 
-### Patents
+---
+
+## Patents
 - **Novel Multi-Carrier Identification Method Based on Back Propagation Neural Network**
   - DC Yu Xiang, Chen Kan, Duan Sirui, Cheng Zhian
   - CN Patent CN108,600,137 B, 2020
   - [Read more](https://patents.google.com/patent/CN108600137B/en)
 
+---
+
 ## Skills
 
-- **Programming Languages**: Python, SQL
-- **Technologies**: Machine Learning, Data Analytics, Natural Language Processing (NLP)
-- **Tools**: Alibaba Cloud, GitHub, DataCamp
+<ul class="skill-list">
+  <li>Python</li>
+  <li>SQL</li>
+  <li>Machine Learning</li>
+  <li>Data Analytics</li>
+  <li>Natural Language Processing (NLP)</li>
+  <li>Alibaba Cloud</li>
+  <li>GitHub</li>
+  <li>Web Application</li>
+</ul>
+
+---
 
 ## Certifications
 
@@ -83,4 +104,3 @@
   - Credential ID: ACA13240601886944L
   - Issued: Jun 2024
   - Skills: Large Language Models (LLM)
-
