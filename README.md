@@ -43,17 +43,15 @@ Welcome to my academic portfolio. You will find detailed information about my ac
 ## Publications
 
 ### Conference Papers
-- **Accurate Prediction of CO2 Minimum Miscibility Pressure Using Adaptive Neuro-Fuzzy Inference Systems**
+- **Accurate Prediction of CO2 Minimum Miscibility Pressure Using Adaptive Neuro-Fuzzy Inference Systems** (Cited by 14)
   - Z Hamdi, D Chenxi
   - SPE Gas & Oil Technology Showcase and Conference, 2019
-  - [Read more](https://www.onepetro.org/conference-paper/SPE-195560-MS)
-  - Cited by 14
+  - [Read more](https://onepetro.org/SPEGOTS/proceedings-abstract/19GOTS/2-19GOTS/219885)
 
-- **How to Build an AI Tutor that Can Adapt to Any Course and Provide Accurate Answers Using Large Language Model and Retrieval-Augmented Generation**
+- **How to Build an AI Tutor that Can Adapt to Any Course and Provide Accurate Answers Using Large Language Model and Retrieval-Augmented Generation** (Cited by 3)
   - C Dong
   - arXiv preprint arXiv:2311.17696, 2023
   - [Read more](https://arxiv.org/abs/2311.17696)
-  - Cited by 3
 
 - **A General Machine Learning-Based Framework for Predicting Students' Performance Given in Multi-Class Label**
   - C Dong, Y Zhang
@@ -80,7 +78,6 @@ Welcome to my academic portfolio. You will find detailed information about my ac
 
 <ul class="skill-list">
   <li>Python</li>
-  <li>SQL</li>
   <li>Machine Learning</li>
   <li>Data Analytics</li>
   <li>Natural Language Processing (NLP)</li>
