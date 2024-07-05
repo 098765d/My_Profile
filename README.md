@@ -1,26 +1,19 @@
-Welcome to my academic portfolio. I've included detailed information about my academic background, research experience, projects, and publications.
 
 ## About Me
 
-- **Name**: Chenxi Dong
 - **Current Position**: Research Assistant at The Education University of Hong Kong
 - **Email**: [cdong@eduhk.hk](mailto:cdong@eduhk.hk)
 - **LinkedIn**: [Chenxi Dong](https://www.linkedin.com/in/chenxi-d-263324227/)
 
 ---
 
-## Academic Background
-
-### Master of Science (MSc) in Data Science
-**City University of Hong Kong** (2020-2021)
+## Education
+### Master of Science (MSc) in Data Science - City University of Hong Kong** (2020-2021)
 - GPA: 3.4/4.0
-- Focused on Machine Learning and Object-Oriented Programming (OOP)
 
-### Bachelor of Engineering (BE) in Engineering
-**Heriot-Watt University** (2016-2019)
+### Bachelor of Engineering (BE) in Engineering - Heriot-Watt University** (2016-2019)
 - GPA: 3.5/4.0
 - Awarded Deputy Principal's Award for academic excellence
-
 ---
 
 ## Projects
