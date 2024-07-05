@@ -1,5 +1,3 @@
-# Chenxi Dong - Personal Page
-
 Welcome to my academic portfolio. I've included detailed information about my academic background, research experience, projects, and publications.
 
 ## About Me
