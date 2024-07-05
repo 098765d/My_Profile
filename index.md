@@ -5,11 +5,14 @@ title: Chenxi Dong - Academic Portfolio
 
 # Chenxi Dong - Academic Portfolio
 
-Welcome to my GitHub portfolio page. Here, you will find detailed information about my academic background, research experience, projects, and publications.
+Welcome to my academic portfolio. You will find detailed information about my academic background, research experience, projects, and publications here.
 
 ## About Me
 
-I am a Research Assistant at The Education University of Hong Kong with a strong background in data science and machine learning. I am passionate about applying technology to improve educational outcomes.
+- **Name**: Chenxi Dong
+- **Current Position**: Research Assistant at The Education University of Hong Kong
+- **Email**: [cdong@eduhk.hk](mailto:cdong@eduhk.hk)
+- **LinkedIn**: [Chenxi Dong](https://www.linkedin.com/in/chenxi-d-263324227/)
 
 ## Academic Background
 
@@ -17,7 +20,6 @@ I am a Research Assistant at The Education University of Hong Kong with a strong
 **City University of Hong Kong** (2020-2021)
 - GPA: 3.4/4.0
 - Focused on Machine Learning and Object-Oriented Programming (OOP)
-- IEEE BHI-BSN 2021 Poster Presentation: Rule-Based + Naive Bayes NLP system for medical drug info matching and auto-correction
 
 ### Bachelor of Engineering (BE) in Engineering
 **Heriot-Watt University** (2016-2019)
@@ -27,28 +29,23 @@ I am a Research Assistant at The Education University of Hong Kong with a strong
 ## Research Experience
 
 ### The Education University of Hong Kong
-**Research Assistant** (Oct 2021 - Present)
-- **CRAC Project**: Improving QA&E by Predicting Student Performance Using Data Analytics
-  - Role: Data Scientist
-  - Technologies: Python, Machine Learning, Data Analytics
-
-- **TDG Project**: An Automated Platform for Early Identification of At-risk Students
-  - Role: Lead Developer
-  - Technologies: Python, Machine Learning
+- **Research Assistant** (Oct 2021 - Present)
+  - Project: CRAC project 03ABL “Improving QA&E by Predicting Student Performance Using Data Analytics”
+  - Project: TDG Project: An Automated Platform for Early Identification of At-risk Students
 
 ## Projects
 
-### CRAC Project - Improving QA&E by Predicting Student Performance Using Data Analytics
-- Description: Using data analytics methods to identify factors affecting student performance at graduation.
-- Technologies: Python, Machine Learning, Data Analytics
+### [CRAC Project - Improving QA&E by Predicting Student Performance Using Data Analytics](https://www.lttc.eduhk.hk/events/20240410_2/)
+- **Description**: Using data analytics methods to identify factors affecting student performance at graduation.
+- **Technologies**: Python, Machine Learning, Data Analytics
 
-### TDG Project - An Automated Platform for Early Identification of At-risk Students
-- Description: Developing an automated platform to identify at-risk students early using predictive analytics.
-- Technologies: Python, Machine Learning
+### [TDG Project - An Automated Platform for Early Identification of At-risk Students](https://app.lib.eduhk.hk/tl/node/407)
+- **Description**: Developing an automated platform to identify at-risk students early using predictive analytics.
+- **Technologies**: Python, Machine Learning
 
-### dualPredict (Python Package for TDG Project)
-- Description: A Python package developed for the TDG project to predict at-risk students.
-- Links: [GitHub Repository](https://github.com/098765d/dualPredictor), [PyPI](https://pypi.org/project/dualPredictor/)
+### [dualPredict (Python Package for TDG Project)](https://github.com/098765d/dualPredictor)
+- **Description**: A Python package developed for the TDG project to predict at-risk students.
+- **Links**: [GitHub Repository](https://github.com/098765d/dualPredictor), [PyPI](https://pypi.org/project/dualPredictor/)
 
 ## Publications
 
@@ -76,7 +73,7 @@ I am a Research Assistant at The Education University of Hong Kong with a strong
   - IEEE BHI-BSN 2021 Poster Presentation
   - [Read more](https://docs.google.com/presentation/d/1Yv-vgErBwZpsDU6caslx5lfWU0TXFe8u/edit?usp=sharing&ouid=103405228218175523912&rtpof=true&sd=true)
 
-### Patents
+## Patents
 - **Novel Multi-Carrier Identification Method Based on Back Propagation Neural Network**
   - DC Yu Xiang, Chen Kan, Duan Sirui, Cheng Zhian
   - CN Patent CN108,600,137 B, 2020
@@ -90,4 +87,18 @@ I am a Research Assistant at The Education University of Hong Kong with a strong
 
 ## Certifications
 
-### IBM Machine Learning Professional Certificate
+- **IBM Machine Learning Professional Certificate**
+  - IBM
+  - Credential ID: NSSZZVM8S4L9
+  - Issued: Jul 2022
+  - Skills: Machine Learning
+
+- **Alibaba Cloud Certified Associate - LLM (阿里云大模型助理工程师 - ACA认证)**
+  - Alibaba Cloud
+  - Credential ID: ACA13240601886944L
+  - Issued: Jun 2024
+  - Skills: Large Language Models (LLM)
+
+## Contact Information
+
+For further information, feel free to reach out via email at [cdong@eduhk.hk](mailto:cdong@eduhk.hk) or connect with me on [LinkedIn](https://www.linkedin.com/in/chenxi-d-263324227/).
