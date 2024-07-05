@@ -42,7 +42,7 @@ Welcome to my academic portfolio. You will find detailed information about my ac
 
 ## Publications
 
-### Conference Papers
+### Papers
 - **Accurate Prediction of CO2 Minimum Miscibility Pressure Using Adaptive Neuro-Fuzzy Inference Systems** (Cited by 14)
   - Z Hamdi, D Chenxi
   - SPE Gas & Oil Technology Showcase and Conference, 2019
