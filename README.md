@@ -29,11 +29,11 @@ Welcome to my academic portfolio. I've included detailed information about my ac
 
 ## Projects
 
-### [CRAC Project - Improving QA&E by Predicting Student Performance Using Data Analytics](https://www.lttc.eduhk.hk/events/20240410_2/)
+### [CRAC Project - Improving QA&E by Predicting Student Performance Using Data Analytics - @ EduHK](https://www.lttc.eduhk.hk/events/20240410_2/)
 - **Description**: Using data analytics methods to identify factors affecting student performance at graduation.
 - **Technologies**: Python, Machine Learning, Data Analytics
 
-### [TDG Project - An Automated Platform for Early Identification of At-risk Students](https://app.lib.eduhk.hk/tl/node/407)
+### [TDG Project - An Automated Platform for Early Identification of At-risk Students @ EduHK](https://app.lib.eduhk.hk/tl/node/407)
 - **Description**: Developing an automated platform to identify at-risk students early using predictive analytics.
 - **Technologies**: Python, Machine Learning, System Design, Web Application
 - **Links**: [GitHub Repository](https://github.com/098765d/dualPredictor), [PyPI](https://pypi.org/project/dualPredictor/)
